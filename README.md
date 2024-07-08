@@ -1,5 +1,4 @@
 
-
 本项目为自定义的Latex模板合集，各模板由文件夹分隔开，每个模板工程由tex文件，references.bib和picture图片素材文件夹组成。
 
 ## 2024研电赛Latex模板
